@@ -1,0 +1,21 @@
+{
+  "name": "plasma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PlasmaJs.js",
+  "scripts": {
+    "start": "node Plasmajs.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "npm": "^6.14.5",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.3"
+  }
+}
